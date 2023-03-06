@@ -7,3 +7,7 @@ y = 2 * torch.dot(x, x)
 y.backward()
 print(x)
 print(x.grad)
+
+
+
+123123123
